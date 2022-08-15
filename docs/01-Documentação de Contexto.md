@@ -1,46 +1,21 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O crescimento do delivery já era uma tendência consolidada, o que mudou, a partir de 2020, foi a velocidade desse crescimento e o alcance que a solução teve globalmente, diante dos desafios enfrentados com a pandemia do Novo Coronavírus.
+Muitos negócios, inclusive, adotaram o modelo como forma de sobreviver à crise e hoje ele é o responsável pela maior parte das suas receitas. Segundo pesquisa nacional, feita pela empresa VR Benefícios ao Instituto Locomotiva, 89% dos estabelecimentos comerciais do país passaram a utilizar o delivery durante a pandemia e hoje ele é responsável por mais da metade do faturamento em 56% dos estabelecimentos do setor.
+Mas e agora que grande parte da população já está imunizada e volta a frequentar os espaços coletivos, os negócios deixarão de usar o delivery? De acordo com um levantamento realizado pela consultoria Galunion, da Associação Nacional de Restaurantes (ANR) e do Instituto Foodservice Brasil (IFB), apontou que 85% pretendem manter o delivery mesmo após a retomada do serviço presencial com ocupação total.
+A maioria dos restaurantes que trabalham com delivery utilizam-se de meios convencionais para realizar suas vendas, através de ligações telefônicas e mensagens. O uso de aplicativos como Ifood e aiqfome também tem ganhado muita força nesse segmento, todavia as taxas cobradas aos restaurantes e deliverys ultrapassam os 12% por venda, sendo inviável para pequenos estabelecimentos. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Este projeto busca solucionar a dificuldade de pequenas empresas, no ramo de deliverys, de ter um site ou cardápio online acessível para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo é criar um ambiente mais acessível e igualitário entre as empresas. Espera-se criar um sistema para restaurantes completo, possuindo uma loja virtual integrada, com um preço justo e isento de qualquer tipo de taxa.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Como pontuado, é de difícil acesso a pequenas empresas no ramo de deliverys um site ou cardápio online para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento, devido às altas taxas e preços cobrados pelas ferramentas disponíveis no mercado. O projeto visa dar acesso a empresas de pequeno porte a essas ferramentas, que muitas vezes não podem fazer um investimento para tê-las ou para aquelas que querem cortar gastos.  
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O foco da aplicação está direcionada para pequena empresas que não podem arcar com os custos das aplicações disponíveis no mercado. 
