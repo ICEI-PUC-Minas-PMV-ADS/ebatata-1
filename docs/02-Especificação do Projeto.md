@@ -56,7 +56,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/persona_maria_santos.jpg" width="300" /></td>
+   <td rowspan="3"><img src="img/people_images/asianwoman.jpg" width="300" /></td>
    <td colspan="3"><strong>Caroline Soares </strong></td>
   </tr>
   
