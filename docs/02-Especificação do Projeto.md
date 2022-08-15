@@ -11,7 +11,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/persona_jose_alves.jpg" width="300" /></td>
+   <td rowspan="3"><img src="img/people_images/blackman.jpg" width="300" /></td>
    <td colspan="3"><strong>Maycon Lucas</strong></td>
   </tr>
   
