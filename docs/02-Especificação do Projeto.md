@@ -101,7 +101,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/persona_antonio_carlos.jpg" width="300" /></td>
+   <td rowspan="3"><img src="ebatata/docs/img/people_images/whiteman.jpeg" width="300" /></td>
    <td colspan="3"><strong>Filipe Fidelis</strong></td>
   </tr>
   
