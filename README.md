@@ -10,12 +10,14 @@ O objetivo desse projeto é criar um ambiente mais acessível e igualitário ent
 
 ## Integrantes
 
-* Carlos Eduardo Lobo
+* Carlos Eduardo Lobo 
+* Daniel Silva
 * Jade Guimarães 
+* Jessica Serqueira
 * João Lucas Pinheiro de Torres
 * Letícia Isabela
-* Jessica Serqueira 
-* Daniel Silva
+ 
+
 
 ## Orientador
 
