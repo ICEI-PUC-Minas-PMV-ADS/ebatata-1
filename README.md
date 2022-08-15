@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# ebatata
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo desse projeto é criar um ambiente mais acessível e igualitário entre as empresas. Espera-se criar um sistema para restaurantes completo, possuindo uma loja virtual integrada, com um preço justo e isento de qualquer tipo de taxa.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Carlos Eduardo Lobo
+* Jade Guimarães 
+* João Lucas Pinheiro de Torres
+* Letícia Isabela
+* Jessica Serqueira 
+* Daniel Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
