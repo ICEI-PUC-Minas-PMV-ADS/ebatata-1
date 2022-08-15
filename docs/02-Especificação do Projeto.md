@@ -1,78 +1,190 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários. 
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
+ 
+<table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src="img/persona_jose_alves.jpg" width="300" /></td>
+   <td colspan="3"><strong>Maycon Lucas</strong></td>
+  </tr>
+  
+  <tr>
+   <td>20 Anos</td>
+   <td>Belo Horizonte</td>
+   <td>Atendente</td>
+  </tr>
+  
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Competitivo, Determinado, Focado.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Estudante do ensino médio, desenvolvendo habilidades para se capacitar e ingressar no mundo dos E-sports.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>: Buscar experiência competitiva e se tornar um jogador profissional.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: Falta de organização de times, dificuldade de encontrar jogadores compatíveis, Falta de sites que promovam a interação entre jogadores.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Necessidades e expectativas</strong>: Adquirir experiência para entrar no cenário profissional, sites que promovam interação entre os jogadores.
+   </td>
+  </tr>
+ </body>
+<table>
+ 
+<table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src="img/persona_maria_santos.jpg" width="300" /></td>
+   <td colspan="3"><strong>Caroline Soares </strong></td>
+  </tr>
+  
+  <tr>
+   <td>25 Anos</td>
+   <td>São Paulo</td>
+   <td>Gerente de restaurante</td>
+  </tr>
+  
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Determinada, Curiosa, Racional, Inspirada, Convincente.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Estudante do ensino superior da área de tecnologia buscando uma oportunidade de criar um time e ingressar no cenário profissional.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>: Ser uma empreendedora na área de E-Sports criando uma equipe para competir profissionalmente.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: Dificuldade de encontrar jogadores e dificuldade de encontrar torneios amadores.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Necessidades e expectativas</strong>: Adquirir experiência no cenário competitivo e gerenciar sua equipe.
+   </td>
+  </tr>
+ </body>
+<table>
+ 
+<table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src="img/persona_antonio_carlos.jpg" width="300" /></td>
+   <td colspan="3"><strong>Filipe Fidelis</strong></td>
+  </tr>
+  
+  <tr>
+   <td>28 Anos</td>
+   <td>Rio de Janeiro</td>
+   <td>Proprietário de delivery</td>
+  </tr>
+  
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Comprometido, proativo, detalhista, organizado, disciplinado, focado.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Graduado em Ciência Contábeis, trabalha a 7 anos no mercado financeiro. Nos momentos de lazer gosta de jogar vídeo games.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>: Buscar por equipes sem interesse em competições, somente jogos casuais.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: Dificuldade de encontrar jogadores.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Necessidades e expectativas</strong>: Buscar novas amizades.
+   </td>
+  </tr>
+ </body>
+<table>
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários. 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                              |
+|--------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
+|Maycon Lucas        |                                                                    |                                                                     |
+|Maycon Lucas        |                                                                    |                                                                     |
+|Maycon Lucas        |                                                                    |                                                                     |
+|Filipe Fidelis      |                                                                    |                                                                     |
+|Filipe Fidelis      |                                                                    |                                                                     |
+|Filipe Fidelis      |                                                                    |                                                                     |
+|Caroline Soares     |                                                                    |                                                                     |
+|Caroline Soares     |                                                                    |                                                                     |
+|Caroline Soares     |                                                                    |                                                                     |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
+|RF-01| Digite o requisito | ALTA | 
+|RF-02| Digite o requisito |  MÉDIA | 
+|RF-03| Digite o requisito |  ALTA | 
+|RF-04| Digite o requisito|  ALTA | 
+|RF-05| Digite o requisito |  ALTA | 
+|RF-06| Digite o requisito |  BAIXA |
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+| ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
+|-----------|-------------------------|----|
+|RNF-01     | Digite o requisito | ALTA | 
+|RNF-02     | Digite o requisito | ALTA | 
+|RNF-03     | Digite o requisito | ALTA | 
+|RNF-04     | Digite o requisito | ALTA | 
 
 ## Restrições
 
@@ -80,12 +192,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| Digite a restrição |
+|02| Digite a restrição |
+|03| Digite a restrição |
