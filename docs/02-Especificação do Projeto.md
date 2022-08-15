@@ -11,7 +11,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/blackman.jpg" width="500" height="400" /></td>
+   <td rowspan="3"><img src="img/people_images/blackmann.jpg" width="480" height="400" /></td>
    <td colspan="3"><strong>Maycon Lucas</strong></td>
   </tr>
   
@@ -56,7 +56,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/asianwomen.jpg" width="500" height="400"  /></td>
+   <td rowspan="3"><img src="img/people_images/asianwomenn.jpg" width="500" height="400"  /></td>
    <td colspan="3"><strong>Caroline Soares </strong></td>
   </tr>
   
@@ -101,7 +101,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/whiteman.jpg" width="500" height="400" /></td>
+   <td rowspan="3"><img src="img/people_images/whitemann.jpg" width="700" height="400" /></td>
    <td colspan="3"><strong>Filipe Fidelis</strong></td>
   </tr>
   
