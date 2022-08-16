@@ -23,31 +23,31 @@ As personas levantadas durante o processo de entendimento do problema são apres
   
   <tr>
    <td colspan="3">
-    <strong>Personalidade</strong>: Competitivo, Determinado, Focado.
+    <strong>Personalidade</strong>: Digite a personalidade.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Biografia</strong>: Estudante do ensino médio, desenvolvendo habilidades para se capacitar e ingressar no mundo dos E-sports.
+    <strong>Biografia</strong>: Digite a biografia.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Objetivos</strong>: Buscar experiência competitiva e se tornar um jogador profissional.
+    <strong>Objetivos</strong>: Digite o objetivo. 
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Pontos de dor e frustração</strong>: Falta de organização de times, dificuldade de encontrar jogadores compatíveis, Falta de sites que promovam a interação entre jogadores.
+    <strong>Pontos de dor e frustração</strong>: Digite os pontos de frustação.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Necessidades e expectativas</strong>: Adquirir experiência para entrar no cenário profissional, sites que promovam interação entre os jogadores.
+    <strong>Necessidades e expectativas</strong>: Digite as necessidades.
    </td>
   </tr>
  </body>
@@ -68,31 +68,31 @@ As personas levantadas durante o processo de entendimento do problema são apres
   
   <tr>
    <td colspan="3">
-    <strong>Personalidade</strong>: Determinada, Curiosa, Racional, Inspirada, Convincente.
+    <strong>Personalidade</strong>: Digite a personalidade.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Biografia</strong>: Estudante do ensino superior da área de tecnologia buscando uma oportunidade de criar um time e ingressar no cenário profissional.
+    <strong>Biografia</strong>: Digite a biografia.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Objetivos</strong>: Ser uma empreendedora na área de E-Sports criando uma equipe para competir profissionalmente.
+    <strong>Objetivos</strong>: Digite o objetivo. 
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Pontos de dor e frustração</strong>: Dificuldade de encontrar jogadores e dificuldade de encontrar torneios amadores.
+    <strong>Pontos de dor e frustração</strong>: Digite os pontos de frustação.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Necessidades e expectativas</strong>: Adquirir experiência no cenário competitivo e gerenciar sua equipe.
+    <strong>Necessidades e expectativas</strong>: Digite as necessidades.
    </td>
   </tr>
  </body>
@@ -113,31 +113,31 @@ As personas levantadas durante o processo de entendimento do problema são apres
   
   <tr>
    <td colspan="3">
-    <strong>Personalidade</strong>: Comprometido, proativo, detalhista, organizado, disciplinado, focado.
+    <strong>Personalidade</strong>: Digite a personalidade.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Biografia</strong>: Graduado em Ciência Contábeis, trabalha a 7 anos no mercado financeiro. Nos momentos de lazer gosta de jogar vídeo games.
+    <strong>Biografia</strong>: Digite a biografia.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Objetivos</strong>: Buscar por equipes sem interesse em competições, somente jogos casuais.
+    <strong>Objetivos</strong>: Digite o objetivo. 
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Pontos de dor e frustração</strong>: Dificuldade de encontrar jogadores.
+    <strong>Pontos de dor e frustração</strong>: Digite os pontos de frustação.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Necessidades e expectativas</strong>: Buscar novas amizades.
+    <strong>Necessidades e expectativas</strong>: Digite as necessidades.
    </td>
   </tr>
  </body>
