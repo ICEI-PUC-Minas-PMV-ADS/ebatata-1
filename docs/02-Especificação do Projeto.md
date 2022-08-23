@@ -149,9 +149,16 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                              |
 |--------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
-|Maycon Lucas        |                                                                    |                                                                     |
-|Maycon Lucas        |                                                                    |                                                                     |
-|Maycon Lucas        |                                                                    |                                                                     |
+|Maycon Lucas        | Cadastrar clientes                                                 | Realização de futuros pedidos                                       |
+|Maycon Lucas        | Modificar o cadastro de clientes                                   | Atualização cadastral                                               |
+|Maycon Lucas        | Criar pedidos                                                      | Realizar vendas                                                     |
+|Maycon Lucas        | Imprimir os pedidos                                                | Criação do produto                                                  |
+|Maycon Lucas        | Adição de complementos aos produtos                                | Criação personalizada de pedidos                                    |
+|Maycon Lucas        | Adição de observações aos pedidos                                  | Criação personalizada de pedidos                                    |
+|Maycon Lucas        | Opções de pagamento pré-definidas                                  | Facilitar a criação de pedido                                       |
+|Maycon Lucas        | Visualizar pedidos realizados no dia                               | Consultas posteriores                                               |
+|Maycon Lucas        | Possibilidade de cadastrar e atualizar o cliente no ato de criação do pedido | Facilitar o atendimento                                                                                     
+|Maycon Lucas        | Possibilidade de realizar pedido fornecendo apenas o nome e telefone do cliente | Facilitar o atendimento                                |
 |Filipe Fidelis      |                                                                    |                                                                     |
 |Filipe Fidelis      |                                                                    |                                                                     |
 |Filipe Fidelis      |                                                                    |                                                                     |
