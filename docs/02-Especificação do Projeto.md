@@ -68,31 +68,31 @@ As personas levantadas durante o processo de entendimento do problema são apres
   
   <tr>
    <td colspan="3">
-    <strong>Personalidade</strong>: Digite a personalidade.
+    <strong>Personalidade</strong>: Prestativo, focado e solidário
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Biografia</strong>: Digite a biografia.
+    <strong>Biografia</strong>: Constante aprendiz, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias de negócios, adquirir e compartilhar conhecimentos e servir à sociedade de forma justa e ética. Cultiva filosofia centrada em clientes, de modo a antecipar e satisfazer suas necessidades de forma lucrativa, contribuindo para negócios sustentáveis, benefícios mútuos e criação de valor de longo prazo.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Objetivos</strong>: Digite o objetivo. 
+    <strong>Objetivos</strong>: Buscar experiência profissional. 
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Pontos de dor e frustração</strong>: Digite os pontos de frustação.
+    <strong>Pontos de dor e frustração</strong>: Dificuldade de econtrar um software que atenda minhas necessidades a um preço acessível.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Necessidades e expectativas</strong>: Digite as necessidades.
+    <strong>Necessidades e expectativas</strong>: Uma aplicação que facilite meu dia a dia.
    </td>
   </tr>
  </body>
