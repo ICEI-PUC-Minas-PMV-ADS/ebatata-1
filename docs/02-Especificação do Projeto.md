@@ -11,14 +11,14 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/blackmann.jpg" width="300" /></td>
-   <td colspan="3"><strong>Maycon Lucas</strong></td>
+   <td rowspan="3"><img src="img/people_images/asianwomenn.jpg" width="300" /></td>
+   <td colspan="3"><strong>Caroline Soares</strong></td>
   </tr>
   
   <tr>
    <td>20 Anos</td>
    <td>Belo Horizonte</td>
-   <td>Atendente</td>
+   <td>Gerente de restaurante</td>
   </tr>
   
   <tr>
@@ -56,14 +56,14 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/asianwomenn.jpg" width="300"  /></td>
-   <td colspan="3"><strong>Caroline Soares </strong></td>
+   <td rowspan="3"><img src="img/people_images/blackmann.jpg" width="300"  /></td>
+   <td colspan="3"><strong>Maycon Lucas </strong></td>
   </tr>
   
   <tr>
    <td>25 Anos</td>
    <td>São Paulo</td>
-   <td>Gerente de restaurante</td>
+   <td>Atendente</td>
   </tr>
   
   <tr>
